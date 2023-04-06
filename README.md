@@ -2,7 +2,7 @@
 ## Setup
 1. Get this repository:
 ```
-git clone https://github.com/heireann/paro2022.git
+git clone https://github.com/heireann/paro2023.git
 ```
 2. Prepare a build directory and generate build scripts with cmake:
 ```
